@@ -4,9 +4,9 @@
 
 # Requirements
 - [x] Minimum standards for a highly secure Windows device ([Secure-Core](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-highly-secure))
-- [] Windows [up-to-date](https://www.microsoft.com/en-us/software-download/windows11)
-- [] Microsoft Defender [up-to-date](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#monthly-platform-and-engine-versions)
-- [] Latest Driver and Program updates
+- [x] Windows [up-to-date](https://www.microsoft.com/en-us/software-download/windows11)
+- [x] Microsoft Defender [up-to-date](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#monthly-platform-and-engine-versions)
+- [x] Latest Driver and Program updates
 - [] Only necessary programs/apps/games which you need
 - [] avoid insecure software like 7-Zip (which lacks [Anti-Exploit](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-6#post-861699) and [MOTW](https://malwaretips.com/threads/winrar-or-7zip-whats-your-favourite.89053/page-3#post-800003) support) and also [Forks](https://improsec.com/tech-blog/peazip-msi-installer-local-privilege-escalation-vulnerabilities), Open/ LibreOffice, [Firefox](https://madaidans-insecurities.github.io/firefox-chromium.html), [True/Veracrypt](https://github.com/beerisgood/Windows11_Hardening/blob/master/TrueCrypt-VeraCrypt), ...
 - [] stay away from "Anti-Spying"/"Anti-Telemetry"/.. tools and use [official documentation](https://github.com/beerisgood/Windows11_Privacy)
