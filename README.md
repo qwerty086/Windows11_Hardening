@@ -44,7 +44,7 @@
 - [] instead of passwords, use [Passkeys](https://support.microsoft.com/windows/passkeys-in-windows-301c8944-5ea2-452b-9886-97e4d2ef4422)
 
 ### Further Hardening
-- [ ] Specify the [cloud-delivered protection level](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/specify-cloud-protection-level-microsoft-defender-antivirus?view=o365-worldwide#use-group-policy-to-specify-the-level-of-cloud-delivered-protection)
+- [x] Specify the [cloud-delivered protection level](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/specify-cloud-protection-level-microsoft-defender-antivirus?view=o365-worldwide#use-group-policy-to-specify-the-level-of-cloud-delivered-protection)
 - [ ] [Configure](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/enable-exploit-protection?view=o365-worldwide#windows-security-app) Microsoft's [Exploit Protection](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/exploit-protection) and [Enforced CET](https://techcommunity.microsoft.com/t5/windows-kernel-internals/developer-guidance-for-hardware-enforced-stack-protection/ba-p/2163340#toc-hId--1650725290)
 - [ ] Use [Microsoft's recommended block rules](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 - [ ] Control [USB devices and other removable media](https://docs.microsoft.com/en-us/windows/security/threat-protection/device-control/control-usb-devices-using-intune)
